@@ -49,4 +49,7 @@ public ServerRadioThread(String adress, int ss) { //costruttore
     public void ferma(){
         att=false;
     }
+    
+    
+    
 }
